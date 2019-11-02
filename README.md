@@ -10,9 +10,11 @@ This is a simple python program that goes through all files inside the old_files
 
 ## Usage
 
-Place all files needing to be converted into the `old_files` directory.
+1. Create two folders in this project directory named `old_files` and `new_files`.
 
-In terminal (on Mac) or command prompt (on Windows) go into the project directory and run the following command `python3 convert.py`.
+2. Place all files needing to be converted into the `old_files` directory.
+
+3. In terminal (on Mac) or command prompt (on Windows) go into the project directory and run the following command `python3 convert.py`.
 
 All converted files will be in the `new_files` directory once the script has finished running.
 
